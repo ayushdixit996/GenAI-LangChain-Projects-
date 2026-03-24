@@ -56,7 +56,7 @@ To build **production-ready GenAI applications** and demonstrate real-world use 
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/GenAI-LangChain-Projects.git
+git clone https://github.com/ayushdixit996/GenAI-LangChain-Projects.git
 cd project-folder
 pip install -r requirements.txt
 streamlit run app.py
