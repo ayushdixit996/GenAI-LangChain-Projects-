@@ -66,4 +66,4 @@ streamlit run app.py
 
 ## ⭐ Author
 
-Built by [Your Name] — aspiring ML/GenAI Engineer
+Built by Ayush dixit — aspiring ML/GenAI Engineer
